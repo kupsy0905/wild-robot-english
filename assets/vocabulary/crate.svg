@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-label="crate" preserveAspectRatio="xMidYMid slice"><defs><linearGradient id="dummy"/></defs><defs>
+ <linearGradient id="bg" x2=".3" y2="1"><stop stop-color="#3195ce"/><stop offset="1" stop-color="#b0e8f3"/></linearGradient>
+ <linearGradient id="water" x2=".3" y2="1"><stop stop-color="#42b9da"/><stop offset=".55" stop-color="#187aa8"/><stop offset="1" stop-color="#0d4f83"/></linearGradient>
+ <linearGradient id="sand" x2=".2" y2="1"><stop stop-color="#eacc96"/><stop offset="1" stop-color="#c89566"/></linearGradient>
+ <linearGradient id="wood" x2=".8" y2="1"><stop stop-color="#eed09d"/><stop offset=".55" stop-color="#b97d45"/><stop offset="1" stop-color="#85512c"/></linearGradient>
+ <linearGradient id="metal" x2=".8" y2="1"><stop stop-color="#fffefe"/><stop offset=".42" stop-color="#bde5eb"/><stop offset="1" stop-color="#769daf"/></linearGradient>
+ <linearGradient id="stone" x2=".8" y2="1"><stop stop-color="#c1c7c8"/><stop offset=".55" stop-color="#87949d"/><stop offset="1" stop-color="#465b69"/></linearGradient>
+ <linearGradient id="abyss" x2="0" y2="1"><stop stop-color="#1d7693" stop-opacity=".1"/><stop offset="1" stop-color="#010f2b"/></linearGradient>
+ <linearGradient id="pearl" x2=".2" y2="1"><stop stop-color="#fffef0"/><stop offset="1" stop-color="#91b9c5"/></linearGradient>
+ <filter id="shadow" x="-40%" y="-40%" width="180%" height="190%"><feDropShadow dx="8" dy="15" stdDeviation="14" flood-color="#082342" flood-opacity=".45"/></filter>
+ <filter id="smallshadow" x="-40%" y="-40%" width="180%" height="190%"><feDropShadow dx="3" dy="8" stdDeviation="6" flood-color="#082342" flood-opacity=".3"/></filter>
+ <filter id="glow" x="-140%" y="-140%" width="380%" height="380%"><feGaussianBlur stdDeviation="20"/></filter>
+ <filter id="cloudBlur"><feGaussianBlur stdDeviation="15"/></filter>
+ </defs><rect width="960" height="720" fill="url(#bg)"/><circle cx="770" cy="128" r="67" fill="#fff7c5" opacity=".84" filter="url(#glow)"/><circle cx="770" cy="128" r="46" fill="#fff8db"/><g opacity="0.6" filter="url(#cloudBlur)"><ellipse cx="190" cy="132" rx="210" ry="75" fill="#f9ffff"/><ellipse cx="370" cy="96" rx="170" ry="62" fill="#f9ffff"/><ellipse cx="775" cy="210" rx="150" ry="55" fill="#f9ffff"/></g><path d="M0 500Q250 470 520 495T960 492V720H0Z" fill="url(#sand)"/><path d="M0 484Q220 460 420 474T960 455V534Q600 515 340 530T0 521Z" fill="#5ca9c6" opacity=".85"/><g transform="translate(470 410) rotate(0) scale(1.5)" filter="url(#shadow)">
+ <path d="M-132 -108L0 -154L142 -98L10 -50Z" fill="#e3ad70" stroke="#80502c" stroke-width="7"/>
+ <path d="M-132 -108L10 -50V105L-132 40Z" fill="url(#wood)" stroke="#70472e" stroke-width="7"/>
+ <path d="M10 -50L142 -98V55L10 105Z" fill="#b27c4a" stroke="#70472e" stroke-width="7"/>
+ <path d="M-100 -95V53M-40 -69V79M-125 -35L7 23M42 -67V91M110 -85V60M10 30L142 -18" stroke="#85522e" stroke-width="12" opacity=".77"/>
+ <path d="M-115 22L-10 72M30 79L125 43" stroke="#f1c48a" stroke-width="6" opacity=".6"/>
+ <circle cx="-95" cy="-91" r="5" fill="#4b4138"/><circle cx="115" cy="-85" r="5" fill="#4b4138"/>
+ 
+ </g><circle cx="51" cy="56" r="2" fill="#e9ffff" opacity="0.15"/><circle cx="134" cy="203" r="3" fill="#e9ffff" opacity="0.27"/><circle cx="217" cy="350" r="4" fill="#e9ffff" opacity="0.39"/><circle cx="300" cy="497" r="5" fill="#e9ffff" opacity="0.51"/><circle cx="383" cy="644" r="2" fill="#e9ffff" opacity="0.15"/><circle cx="466" cy="101" r="3" fill="#e9ffff" opacity="0.27"/><circle cx="549" cy="248" r="4" fill="#e9ffff" opacity="0.39"/><circle cx="632" cy="395" r="5" fill="#e9ffff" opacity="0.51"/><circle cx="715" cy="542" r="2" fill="#e9ffff" opacity="0.15"/><circle cx="798" cy="689" r="3" fill="#e9ffff" opacity="0.27"/><circle cx="881" cy="146" r="4" fill="#e9ffff" opacity="0.39"/><circle cx="24" cy="293" r="5" fill="#e9ffff" opacity="0.51"/><circle cx="107" cy="440" r="2" fill="#e9ffff" opacity="0.15"/><circle cx="190" cy="587" r="3" fill="#e9ffff" opacity="0.27"/><circle cx="273" cy="44" r="4" fill="#e9ffff" opacity="0.39"/><circle cx="356" cy="191" r="5" fill="#e9ffff" opacity="0.51"/><circle cx="439" cy="338" r="2" fill="#e9ffff" opacity="0.15"/><circle cx="522" cy="485" r="3" fill="#e9ffff" opacity="0.27"/></svg>
